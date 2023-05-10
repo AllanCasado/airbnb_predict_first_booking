@@ -2,7 +2,7 @@
 
 ## This project aims to predict which country a new user's first booking destination will be.
 
-<img src="https://anitabemcriada.com/wp-content/uploads/2020/08/airbnbmgn4.jpg">
+<img src="https://anitabemcriada.com/wp-content/uploads/2020/08/airbnbmgn4.jpg"/>
 
 #### This project was made by Allan Casado
 
